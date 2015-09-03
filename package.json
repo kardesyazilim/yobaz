@@ -1,0 +1,19 @@
+{
+  "name": "yobaz",
+  "version": "1.0.0",
+  "description": "yobaz - role base auth for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gitreposotyurl"
+  },
+  "keywords": [
+    "keywords",
+    "one"
+  ],
+  "author": "leonidas gorgo",
+  "license": "MIT"
+}

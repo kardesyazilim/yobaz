@@ -1,0 +1,340 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"g",
+				"global"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"s",
+				"systems"
+			],
+			[
+				"r",
+				"route"
+			],
+			[
+				"Cit",
+				"City"
+			],
+			[
+				"stre",
+				"Streets"
+			],
+			[
+				"user",
+				"usercitys"
+			],
+			[
+				"st",
+				"streets"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"bod",
+				"BodyTopMargin"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"last_filter": "jso",
+		"selected_items":
+		[
+			[
+				"jso",
+				"Set Syntax: JSON"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/leo/Desktop/project/nodejs/carina/app/controllers/login.js",
+		"/Users/leo/Desktop/project/nodejs/carina/definitions/modules.js",
+		"/Users/leo/Desktop/project/nodejs/carina/controllers/default.js",
+		"/Users/leo/Desktop/project/nodejs/carina/views/login.html",
+		"/Users/leo/Desktop/project/nodejs/carina/models/rbac.js",
+		"/Users/leo/Desktop/project/nodejs/carina/models/users.js",
+		"/Users/leo/Desktop/project/nodejs/carina/controllers/api.js",
+		"/Users/leo/Desktop/project/nodejs/carina/controllers/in.js",
+		"/Users/leo/Desktop/project/nodejs/carina/controllers/rbac.js",
+		"/Users/leo/Desktop/project/nodejs/carina/docs/session.js",
+		"/Users/leo/Desktop/project/nodejs/carina/controllers/tw.js",
+		"/Users/leo/Desktop/project/nodejs/carina/package.json",
+		"/Users/leo/Desktop/project/nodejs/carina/joblist.txt",
+		"/Users/leo/Desktop/project/nodejs/carina/app/css/app.css",
+		"/Users/leo/Desktop/project/nodejs/carina/configs/carina-config-debug",
+		"/Users/leo/Desktop/project/nodejs/carina/views/mainpage.html",
+		"/Users/leo/Desktop/project/nodejs/carina/controllers/golas.js",
+		"/Users/leo/Desktop/project/nodejs/carina/controllers/chat.js",
+		"/Users/leo/Desktop/project/nodejs/carina/controllers/calendar.js",
+		"/Users/leo/Desktop/project/nodejs/carina/controllers/ga.js",
+		"/Users/leo/Desktop/project/nodejs/carina/controllers/fb.js",
+		"/Users/leo/Desktop/project/nodejs/carina/controllers/mustafa.js",
+		"/Users/leo/Desktop/project/nodejs/carina/app/controllers/mainpage.js",
+		"/Users/leo/Desktop/project/nodejs/carina/docs/client_secret_155428413048-hhh8gik1k6nk0c8b19h97t34ki7laa11.apps.googleusercontent.com.json",
+		"/Users/leo/Desktop/mr.robot.txt",
+		"/Users/leo/Desktop/project/nodejs/carina/app/controllers/home.js",
+		"/Users/leo/Desktop/project/nodejs/carina/views/logo.html",
+		"/Users/leo/Desktop/project/nodejs/carina/views/newcity.html",
+		"/Users/leo/Desktop/project/nodejs/carina/controllers/systems.js",
+		"/Users/leo/Desktop/project/nodejs/carina/.gitignore",
+		"/Users/leo/Desktop/project/nodejs/carina/app/controllers/logo.js",
+		"/Users/leo/Desktop/project/nodejs/carina/controllers/role.js",
+		"/Users/leo/Desktop/project/nodejs/carina/views/newuser.html",
+		"/Users/leo/Desktop/project/nodejs/carina/app/controllers/newuser.js",
+		"/Users/leo/Desktop/project/nodejs/carina/models/cities.js",
+		"/Users/leo/Desktop/project/nodejs/carina/app/controllers/newcity.js",
+		"/Users/leo/Desktop/project/nodejs/carina/controllers/auth.js",
+		"/Users/leo/Desktop/project/nodejs/carina/carina-config-test",
+		"/Users/leo/Desktop/project/nodejs/carina/ config",
+		"/Users/leo/Desktop/project/nodejs/carina/config-debug",
+		"/Users/leo/Desktop/project/nodejs/carina/backup/db/carinaMaster/users/55c5d7b4cd010dc25197d52e.json",
+		"/Users/leo/Desktop/project/nodejs/carina/backup.js",
+		"/Users/leo/Desktop/project/nodejs/carina/backup/db/carinaMaster/cities/55c941c62e2a2017b3fef1be.json",
+		"/Users/leo/Desktop/project/nodejs/carina/test.js",
+		"/Users/leo/Desktop/project/nodejs/carina/doc/citys.js",
+		"/Users/leo/Desktop/project/nodejs/carina/resources/en.resource",
+		"/Users/leo/Desktop/project/nodejs/carina/views/layout.html",
+		"/Users/leo/Desktop/project/nodejs/carina/doc/ankara.json",
+		"/Users/leo/Desktop/project/nodejs/carina/carina.sublime-project",
+		"/Users/leo/Desktop/project/nodejs/carina/models/angular.js",
+		"/Users/leo/Desktop/project/nodejs/carina/app/controllers/user.js",
+		"/Users/leo/Desktop/project/nodejs/carina/app/controllers/navs.js",
+		"/Users/leo/Desktop/project/nodejs/carina/views/index.html",
+		"/Users/leo/Desktop/project/nodejs/carina/doc/mongo_create_user.js",
+		"/Users/leo/Desktop/project/nodejs/carina/debug.js",
+		"/Users/leo/Desktop/project/nodejs/carina/views/app.html",
+		"/Users/leo/Desktop/project/nodejs/carina/app/robots.txt",
+		"/Users/leo/Desktop/project/nodejs/carina/app/app.js",
+		"/Users/leo/Desktop/project/nodejs/carina/ config-test",
+		"/Users/leo/Desktop/project/nodejs/carina/config-release",
+		"/Users/leo/Desktop/project/nodejs/carina/definitions/database.js",
+		"/Users/leo/Desktop/project/nodejs/carina/definitions/localization.js",
+		"/Users/leo/Desktop/project/nodejs/carina/public/jcta.min.js",
+		"/Users/leo/Desktop/project/nodejs/carina/controllers/default.js\ndefault.js\ndefault.js",
+		"/Users/leo/Desktop/project/nodejs/carina/release.js",
+		"/Users/leo/Desktop/project/nodejs/carina/readme.md"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"_",
+			"red",
+			" </option>",
+			"street",
+			"                  / ",
+			"</option>",
+			"                      / "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"s",
+			"",
+			"streets",
+			"",
+			"\" }",
+			"\"",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "yobaz.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 361.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
