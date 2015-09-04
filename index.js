@@ -26,3 +26,8 @@
 
 'use strict';
 
+function Rbac() {
+
+	this.id = null;
+	this.version = 1000;
+}
